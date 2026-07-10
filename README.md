@@ -1,4 +1,4 @@
-# Déploiement Kubernetes - Projet Final
+<img width="1712" height="755" alt="Screenshot 2026-07-10 172801" src="https://github.com/user-attachments/assets/e9994679-59be-4563-abe8-548c66f85c9a" /># Déploiement Kubernetes - Projet Final
 
 ## Présentation du projet
 
@@ -218,19 +218,27 @@ Une fois l'application accessible dans le navigateur, vous devriez voir :
 ## Captures d'écran
 
 ### Images Docker
-[Insérer capture: `docker images`]
+
+<img width="1879" height="966" alt="Screenshot 2026-07-10 171215" src="https://github.com/user-attachments/assets/d1773875-674f-42d1-9d48-dde9386cb897" />
+
+<img width="971" height="207" alt="Screenshot 2026-07-10 171724" src="https://github.com/user-attachments/assets/bb054af3-a526-4c22-92fb-91e595d0c8d9" />
+
 
 ### Conteneurs Docker
-[Insérer capture: `docker ps`]
+<img width="1007" height="299" alt="Screenshot 2026-07-10 172015" src="https://github.com/user-attachments/assets/98c5f904-53ef-4719-8785-8ae9c3d5531b" />
+
 
 ### Pods Kubernetes
-[Insérer capture: `kubectl get pods -n projet-final`]
+<img width="874" height="216" alt="Screenshot 2026-07-10 172141" src="https://github.com/user-attachments/assets/73d83d73-4dda-4c44-89fb-340d4fc42406" />
 
 ### Services Kubernetes
-[Insérer capture: `kubectl get svc -n projet-final`]
+<img width="895" height="126" alt="Screenshot 2026-07-10 172300" src="https://github.com/user-attachments/assets/c18e76d0-8852-434a-8162-d6184463cc3d" />
 
 ### Application dans le navigateur
-[Insérer capture: Navigateur affichant "Bonjour Kubernetes"]
+<img width="1674" height="609" alt="Screenshot 2026-07-10 173128" src="https://github.com/user-attachments/assets/4d55faca-5768-43cb-8b9d-2abe61141461" />
+<img width="1712" height="755" alt="Screenshot 2026-07-10 172801" src="https://github.com/user-attachments/assets/cd6563f8-6f80-42cc-ab7c-2818d33ae9b9" />
+
+
 
 ## Bonnes pratiques appliquées
 
